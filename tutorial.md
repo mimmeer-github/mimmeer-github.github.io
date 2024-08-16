@@ -27,7 +27,7 @@ If you want some extras, use the links below:
 
 #### Icons:
 
-[Icons](https://drive.google.com/drive/folders/1HxRZWZaEr9sp5wB0emi2tVVh_aXZUAiu?usp=drive_link)
+[Icons]((https://drive.google.com/file/d/19VSivGIYyrHXUwscGSbk6YZaJ8rpHAd1/view?usp=drive_link))
 
 #### LibreOffice:
 
