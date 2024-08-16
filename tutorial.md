@@ -53,7 +53,7 @@ More extras, this time from the Microsoft Store:
 
 Now let's install them. 
 
-Start off by installing Rainmeter, launch the "Rainmeter-[version].exe" file and follow it's steps. Next extract the "MyDockFinder W1011 by VIN STAR" file to where you want it to be, then to start it start "dock.exe".
+Start off by installing Rainmeter, launch the "Rainmeter-[version].exe" file and follow it's steps. Next extract the "MyDockFinder W1011 by VIN STAR" file to where you want it to be, then to start it start "dock.exe". Next, to install the widgets double-click on their files.
 
 ### Extras installation
 To install the extras read the following:
