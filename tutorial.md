@@ -8,46 +8,46 @@ we will use a tool called
 RainMeter.
  
 First get Rainmeter from
-https://www.rainmeter.net
+[RainMeter Website](https://www.rainmeter.net)
 
 Next we will get the widgets
 first get Monterey Rainmeter from
-https://shorturl.at/nkZvZ
+[Montery Rainmeter](https://shorturl.at/nkZvZ)
 and then get Bluesh from
-https://shorturl.at/wVLgg
+[Bluesh](https://shorturl.at/wVLgg)
 . Then continue.
 
 ### The Dock and Menu Bar
 Now we'll get the main event. The Dock and Menu Bar.
 But here we only need MyDockFinder, get it here:
-https://www.vinstartheme.com/wp-content/uploads/2024/07/MyDockFinder-2024.zip
+[MyDockFinder](https://www.mediafire.com/file/r4te70vpe9td4fk/MyDockFinder_W1011_by_VIN_STAR.zip/file)
 
 ### Extras
 If you want some extras, use the links below:
 
 #### Icons:
 
-https://drive.google.com/drive/folders/1HxRZWZaEr9sp5wB0emi2tVVh_aXZUAiu?usp=drive_link
+[Icons](https://drive.google.com/drive/folders/1HxRZWZaEr9sp5wB0emi2tVVh_aXZUAiu?usp=drive_link)
 
 #### LibreOffice:
 
-https://www.mirrorservice.org/sites/download.documentfoundation.org/tdf/libreoffice/stable/24.2.5/win/x86/LibreOffice_24.2.5_Win_x86.msi
+[LibreOffice](https://www.mirrorservice.org/sites/download.documentfoundation.org/tdf/libreoffice/stable/24.2.5/win/x86/LibreOffice_24.2.5_Win_x86.msi)
 
 #### Files:
 
-https://cdn.files.community/files/download/Files.Stable.exe
+[Files](https://cdn.files.community/files/download/Files.Stable.exe)
 
 ### Microsoft Store Extras
 More extras, this time from the Microsoft Store:
 
 #### WinDynamicDesktop
-https://apps.microsoft.com/detail/9nm8n7dq3z5f?hl=en-UK&gl=UK
+[WinDynamicDesktop](https://apps.microsoft.com/detail/9nm8n7dq3z5f?hl=en-UK&gl=UK)
 
 #### QuickLook
-https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-UK&gl=UK
+[QuickLook](https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-UK&gl=UK)
 
 #### Notepads
-https://apps.microsoft.com/detail/9nhl4nsc67wm?rtc=1&hl=en-gb&gl=GB
+[Notepads](https://apps.microsoft.com/detail/9nhl4nsc67wm?rtc=1&hl=en-gb&gl=GB)
 
 ## Installing
 
